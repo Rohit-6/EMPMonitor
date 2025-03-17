@@ -4,7 +4,7 @@
 </div>
 
 
-![EmpMonitor](/emptrail/assets/EMPMonitor%20logo.png)
+![EmpMonitor](/assets/EMPMonitor%20logo.png)
 <p align = "center"><i>Your Workforce Productivity Compass</i></p></b>
 
 
@@ -113,7 +113,7 @@ With powerful automation, AI-driven insights, and a user-friendly interface, Emp
 
  <details>
   <summary>Dashboard Preview</summary>
-      <img src="/emptrail/assets/Dashboard.png" alt = "Dashboard Preview" width ="1000" height = "500 "></img>
+      <img src="/assets/Dashboard.png" alt = "Dashboard Preview" width ="1000" height = "500 "></img>
   </details>
 
 <br>
@@ -167,7 +167,7 @@ With powerful automation, AI-driven insights, and a user-friendly interface, Emp
     <p>Whether you’re monitoring application usage, tracking work hours, or identifying areas for improvement, EmpMonitor ensures transparency, efficiency, and trust in your workplace.</p>
      <details>
   <summary>Preview</summary>
-      <img src="/emptrail/assets/Employee-details.png" alt = "Dashboard Preview" width ="1000" height = "500 "></img>
+      <img src="/assets/Employee-details.png" alt = "Dashboard Preview" width ="1000" height = "500 "></img>
   </details>
     <details>
         <summary>Features</summary>
@@ -257,7 +257,7 @@ With powerful automation, AI-driven insights, and a user-friendly interface, Emp
     <p>EmpMonitor’s Work Hours Monitoring feature enables precise tracking of employee work hours through real-time timesheets and performance analytics. Real-time timesheets ensure accurate records of login/logout times, breaks, and overtime, promoting transparency and schedule compliance. Meanwhile, performance analytics offer insights into productivity trends like peak performance hours, task completion rates, and application usage. These insights help identify inefficiencies, optimize workflows, and allocate resources effectively. By fostering accountability, EmpMonitor keeps employees productive and equips managers with actionable data for informed decision-making. Whether streamlining operations, improving payroll accuracy, or enhancing team performance, this feature drives efficiency, transparency, and accountability across your organization.</p>
     <details>
   <summary>Preview</summary>
-      <img src="/emptrail/assets/Screenshot_1.png" alt = "Dashboard Preview" width ="1000" height = "500 "></img>
+      <img src="/assets/Screenshot_1.png" alt = "Dashboard Preview" width ="1000" height = "500 "></img>
   </details>
     <details>
     <summary>Features</summary>
@@ -313,7 +313,7 @@ With powerful automation, AI-driven insights, and a user-friendly interface, Emp
     </p>
      <details>
   <summary>Preview</summary>
-      <img src="/emptrail/assets/Screenshot_2.png" alt = "Dashboard Preview" width ="1000" height = "500 "></img>
+      <img src="/assets/Screenshot_2.png" alt = "Dashboard Preview" width ="1000" height = "500 "></img>
   </details>
     <details>
     <summary>Features</summary>
@@ -347,7 +347,7 @@ With powerful automation, AI-driven insights, and a user-friendly interface, Emp
     </p>
      <details>
   <summary>Preview</summary>
-      <img src="/emptrail/assets/Screenshot_3.png" alt = "Dashboard Preview" width ="1000" height = "500 "></img>
+      <img src="/assets/Screenshot_3.png" alt = "Dashboard Preview" width ="1000" height = "500 "></img>
   </details>
     <details>
     <summary>Features</summary>
@@ -393,7 +393,7 @@ With powerful automation, AI-driven insights, and a user-friendly interface, Emp
      </p>
      <details>
   <summary>Preview</summary>
-      <img src="/emptrail/assets/Screenshot_4.png" alt = "Dashboard Preview" width ="1000" height = "500 "></img>
+      <img src="/assets/Screenshot_4.png" alt = "Dashboard Preview" width ="1000" height = "500 "></img>
   </details>
     <details>
     <summary>Features</summary>
@@ -415,7 +415,7 @@ With powerful automation, AI-driven insights, and a user-friendly interface, Emp
     <p>This feature enhances team performance by analyzing workflows and tracking engagement levels. Using AI-driven insights, it identifies inefficiencies, optimizes operations, and boosts productivity. This feature empowers businesses to create a more engaged and high-performing workforce, driving better results and operational excellence.</p>
     <details>
     <summary>Preview</summary>
-      <img src="/emptrail/assets/Screenshot_5.png" alt = "Dashboard Preview" width ="1000" height = "500 "></img>
+      <img src="/assets/Screenshot_5.png" alt = "Dashboard Preview" width ="1000" height = "500 "></img>
     </details>
     <details>
     <summary>Features</summary>
@@ -461,15 +461,15 @@ Overall, EmpMonitor helps businesses increase efficiency, improve teamwork, and 
 
 
 # How to use EmpMonitor
-<a href="https://www.w3schools.com">System Requirements</a>
+<a href="#">System Requirements</a>
 <br>
-<a href="https://www.w3schools.com">Download the Installer</a>
+<a href="#">Download the Installer</a>
 <br>
-<a href="https://www.w3schools.com">Install EmpMonitor</a>
+<a href="#">Install EmpMonitor</a>
 <br>
-<a href="https://www.w3schools.com">Configure the Software</a>
+<a href="#">Configure the Software</a>
 <br>
-<a href="https://www.w3schools.com">Verify the Installation</a>
+<a href="#">Verify the Installation</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
