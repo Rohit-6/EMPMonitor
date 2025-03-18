@@ -493,7 +493,7 @@ We welcome contributions from the community to help improve EmpMonitor! Whether 
 We sincerely thank everyone who has helped make <a href="https://app.empmonitor.com/amember/login">EmpMonitor</a>  better, including developers, testers, contributors, and users. Your support, feedback, and ideas have been invaluable in improving the tool. We also appreciate the businesses and teams using EmpMonitor to improve productivity and workplace security. Your trust encourages us to keep improving and delivering the best solutions.
 
 # License
-![License](https://img.shields.io/badge/License-MIT-green.svg)  
+![License](https://img.shields.io/badge/License-GPLv3-green.svg)  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
