@@ -113,7 +113,7 @@ With powerful automation, AI-driven insights, and a user-friendly interface, Emp
 
  <details>
   <summary>Dashboard Preview</summary>
-      <img src="/assets/Dashboard.png" alt = "Dashboard Preview" width ="1000" height = "500 "></img>
+      <img src="/assets/Dashboard.png" alt = "Dashboard Preview" width ="800" height = "500 "></img>
   </details>
 
 <br>
