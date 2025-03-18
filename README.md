@@ -487,9 +487,6 @@ We welcome contributions from the community to help improve EmpMonitor! Whether 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# Guidelines
-
-
 
 # Acknowledgement
 
